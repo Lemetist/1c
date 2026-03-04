@@ -1,0 +1,3 @@
+method Script()
+Console.Write("Hello world")
+;
